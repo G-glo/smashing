@@ -1,0 +1,158 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.grid1{
+    width:665px;
+    height:450px;
+    background-color:crimson;
+    margin:0px;
+    padding: 0px;
+    float: left;
+}
+.grid2{
+    width:665px;
+    height:450px;
+    background-color: red;
+    margin:0px;
+    padding: 0px;
+    float: left;
+}
+.grid3{
+    width:665px;
+    height:450px;
+    background-color: red;
+    margin:0px;
+    padding: 0px;
+    float: left;
+}
+.grid4{
+    width:665px;
+    height:450px;
+    background-color:crimson;
+    margin:0px;
+    padding: 0px;
+    float: left;
+}
+.grid-container{
+    float:left;
+}
+.DAY6{
+    width: 400px;
+    height:400px;
+    background-color:blueviolet;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+}
+.DAY7{
+    width: 400px;
+    height:400px;
+    background-color: white;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+
+}
+.DAY9{
+    width: 4o0px;
+    height:400px;
+    background-color: white;
+    float: left
+    margin: 0px;
+    padding: 0px;
+
+}
+.grid-container6, .grid-container10{
+    width: 1000px;
+    height:200px;
+    background-color:blue;
+    align-content: center;
+}
+.grid5{
+    width:665px;
+    height:450px;
+    background-color:crimson;
+    margin:2px;
+    padding: 20px;
+    float: left;
+    background-color: turquoise;
+}
+.grid6{
+    width:665px;
+    height:500px;
+    background-color:crimson;
+    margin:2px;
+    padding: 20px;
+    float: left;
+    background-color: teal;
+}
+.grid7{
+    width:665px;
+    height:500px;
+    background-color:crimson;
+    margin:2px;
+    padding: 20px;
+    float: left;
+    background-color:blueviolet;
+}
+.grid8{
+    width:665px;
+    height:500px;
+    background-color:crimson;
+    margin:2px;
+    padding: 20px;
+    float: left;
+    background-color:cornflowerblue;
+}
+.grid-container8{
+    width: 1000px;
+    height: 200px;
+    background-color: yellowgreen;
+    text-align: justify;
+
+}
+.article2{
+    font-size: 14px;
+    align-content: center;
+    margin: 0px auto;
+    padding: 0px;
+    height: 35px;
+    width: 1000px
+    background-color: yellow;
+    font-weight:lighter;
+    text-align::center;
+}
+.gridcontainer11{
+    width: 1000px;
+    height: 100px;
+    background-color: darkblue;
+}
+.footer-list-items{
+    display: inline-block;
+    width:  1300px;
+    height: 600px;
+    margin-inline-end:1px ;
+    background-color: tomato;
+    padding-left: 10px;
+    font-size: 25 em;
+    margin: 0.25em;
+    text-align: center;
+}
+
+.footer-list-items{
+    place-content: center;
+    float:left;
+    align-content:left;
+    justify-items: center;
+}
+li{
+    float: left;
+    word-break: break-word;
+
+}
+.main-footer{
+    text-align: center;
+    font-size: small;
+
+}
