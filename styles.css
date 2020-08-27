@@ -34,34 +34,17 @@ body{
     padding: 0px;
     float: left;
 }
-.grid-container{
+.grid-container2{
     float:left;
-}
-.DAY6{
-    width: 400px;
     height:400px;
-    background-color:blueviolet;
-    float: left;
-    margin: 0px;
-    padding: 0px;
-}
-.DAY7{
-    width: 400px;
-    height:400px;
-    background-color: white;
-    float: left;
-    margin: 0px;
-    padding: 0px;
 
 }
-.DAY9{
-    width: 4o0px;
-    height:400px;
-    background-color: white;
-    float: left
-    margin: 0px;
-    padding: 0px;
-
+.episode{
+    align-content: flex-end;
+    place-content: right;
+    justify-content: right;
+    width: 350px;
+    height: 400px;
 }
 .grid-container6, .grid-container10{
     width: 1000px;
@@ -71,39 +54,31 @@ body{
 }
 .grid5{
     width:665px;
-    height:450px;
-    background-color:crimson;
+    height:40px;
     margin:2px;
     padding: 20px;
-    float: left;
     background-color: turquoise;
 }
 .grid6{
     width:665px;
-    height:500px;
+    height:400px;
     background-color:crimson;
     margin:2px;
     padding: 20px;
-    float: left;
-    background-color: teal;
 }
 .grid7{
     width:665px;
-    height:500px;
-    background-color:crimson;
+    height:400px;
+    background-color:teal;
     margin:2px;
     padding: 20px;
-    float: left;
-    background-color:blueviolet;
 }
 .grid8{
     width:665px;
-    height:500px;
-    background-color:crimson;
+    height:400px;
+    background-color:rgb(87, 233, 81);
     margin:2px;
     padding: 20px;
-    float: left;
-    background-color:cornflowerblue;
 }
 .grid-container8{
     width: 1000px;
